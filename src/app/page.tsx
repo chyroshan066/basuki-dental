@@ -4,6 +4,7 @@ import { BackToTop } from "@/components/BackToTop";
 import { CallToAction } from "@/components/CallToAction";
 // import { Dentist } from "@/components/Dentist";
 import { Footer } from "@/components/Footer";
+import { Gallery } from "@/components/Gallery";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { Maps } from "@/components/Maps";
@@ -19,6 +20,7 @@ export default function Home() {
           <Hero />
           <Service />
           <About />
+          <Gallery />
           {/* <Dentist /> */}
           <CallToAction />
           <TestimonialSlider />

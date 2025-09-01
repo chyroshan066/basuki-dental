@@ -4,7 +4,7 @@ import { Button } from "./utility/Button/Button";
 
 export const CallToAction = memo(() => (
     <section
-        className="section cta mt-40 lg:mt-80"
+        className="section cta mt-30 lg:mt-60"
         aria-label="cta"
     >
         <div className="custom-container">

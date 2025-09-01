@@ -30,3 +30,10 @@ export interface Testimonial {
     image: string;
     position?: string;
 }
+
+export interface Photo {
+    id: number;
+    src: string;
+    alt: string;
+    title: string;
+}
