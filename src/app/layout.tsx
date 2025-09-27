@@ -98,7 +98,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Basuki Dental" }],
   creator: "Basuki Dental",
   publisher: "Basuki Dental",
-  metadataBase: new URL("https://basuki-dental.vercel.app/"),
+  metadataBase: new URL("https://basukidental.com"),
   alternates: {
     canonical: "/",
   },
@@ -151,7 +151,7 @@ export const metadata: Metadata = {
     description: "Expert dentists in Biratnagar offering dental implants, braces, root canals, cosmetic dentistry, and preventive care in a modern, patient-friendly clinic.",
     type: "website",
     locale: "en_US",
-    url: "https://basuki-dental.vercel.app/",
+    url: "https://basukidental.com",
     siteName: "Basuki Dental",
     images: [
       {
