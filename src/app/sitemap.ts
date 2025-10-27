@@ -1,6 +1,6 @@
 import { MetadataRoute } from "next";
 
-const baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://www.basukidental.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // Core restaurant pages
